@@ -5,9 +5,9 @@ A single `@tool` script that generates procedural pixel art grass, reeds, roots,
 <p align="center">
   <img src="screenshots/grass_default.png" width="25%" />
   <img src="screenshots/wheat_field.png" width="25%" />
+  <img src="screenshots/reeds.png" width="25%" />
 </p>
 <p align="center">
-  <img src="screenshots/reeds.png" width="25%" />
   <img src="screenshots/bamboo.png" width="25%" />
   <img src="screenshots/crystal.png" width="25%" />
   <img src="screenshots/terracota.png" width="25%" />
